@@ -137,7 +137,7 @@ sudo apt update
 sudo apt install docker.io
 ```
  
-### Grant Jenkins user and Ubuntu user permission to docker deamon.
+### Grant Jenkins user and Ubuntu user permission to docker daemon.
 
 <br />
 
